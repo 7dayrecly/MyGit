@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "socket编程", "socket编程\socket编程.vcxproj", "{648540BF-1D9B-47B1-BE99-12232BDF3A43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{648540BF-1D9B-47B1-BE99-12232BDF3A43}.Debug|x64.ActiveCfg = Debug|x64
+		{648540BF-1D9B-47B1-BE99-12232BDF3A43}.Debug|x64.Build.0 = Debug|x64
+		{648540BF-1D9B-47B1-BE99-12232BDF3A43}.Debug|x86.ActiveCfg = Debug|Win32
+		{648540BF-1D9B-47B1-BE99-12232BDF3A43}.Debug|x86.Build.0 = Debug|Win32
+		{648540BF-1D9B-47B1-BE99-12232BDF3A43}.Release|x64.ActiveCfg = Release|x64
+		{648540BF-1D9B-47B1-BE99-12232BDF3A43}.Release|x64.Build.0 = Release|x64
+		{648540BF-1D9B-47B1-BE99-12232BDF3A43}.Release|x86.ActiveCfg = Release|Win32
+		{648540BF-1D9B-47B1-BE99-12232BDF3A43}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A79F6AC-3242-43C0-932D-3F548D1B3164}
+	EndGlobalSection
+EndGlobal

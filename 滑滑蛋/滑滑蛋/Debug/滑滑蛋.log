@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\wujun\source\repos\滑滑蛋\滑滑蛋\源.cpp(26): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\wujun\source\repos\滑滑蛋\滑滑蛋\源.cpp(83): warning C4715: “Imformation”: 不是所有的控件路径都返回值
+  滑滑蛋.vcxproj -> C:\Users\wujun\source\repos\滑滑蛋\Debug\滑滑蛋.exe

@@ -1,0 +1,1 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(490,9): error MSB4030: “否 (/sdl)”对于“CL”任务的“SDLCheck”参数是无效值。“SDLCheck”参数的类型为“System.Boolean”。

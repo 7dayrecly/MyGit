@@ -1,0 +1,9 @@
+﻿  源.cpp
+c:\users\wujun\source\repos\qiguai\qiguai\源.cpp(186): error C2065: “myLinkList”: 未声明的标识符
+c:\users\wujun\source\repos\qiguai\qiguai\源.cpp(187): error C2065: “myLinkList”: 未声明的标识符
+c:\users\wujun\source\repos\qiguai\qiguai\源.cpp(192): error C2065: “myLinkList”: 未声明的标识符
+c:\users\wujun\source\repos\qiguai\qiguai\源.cpp(193): error C2065: “myLinkList”: 未声明的标识符
+c:\users\wujun\source\repos\qiguai\qiguai\源.cpp(198): error C2065: “myLinkList”: 未声明的标识符
+c:\users\wujun\source\repos\qiguai\qiguai\源.cpp(203): error C2065: “myLinkList”: 未声明的标识符
+c:\users\wujun\source\repos\qiguai\qiguai\源.cpp(208): error C2065: “myLinkList”: 未声明的标识符
+c:\users\wujun\source\repos\qiguai\qiguai\源.cpp(213): error C2065: “myLinkList”: 未声明的标识符

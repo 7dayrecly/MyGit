@@ -1,0 +1,73 @@
+﻿  源.cpp
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(17): warning C4566: 由通用字符名称“\u55EF”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(19): warning C4566: 由通用字符名称“\u4E4C”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(19): warning C4566: 由通用字符名称“\u9F9F”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(19): warning C4566: 由通用字符名称“\u76D0”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(20): warning C4566: 由通用字符名称“\u6C61”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(20): warning C4566: 由通用字符名称“\u517B”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(21): warning C4566: 由通用字符名称“\u9E40”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(21): warning C4566: 由通用字符名称“\u9D39”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(25): warning C4838: 从“double”转换到“int”需要收缩转换
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(23): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(24): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(52): warning C4566: 由通用字符名称“\u83B7”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u55EF”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u867D”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u8D28”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u5B9E”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u62A5”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u65F6”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u70ED”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u4E3A”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u4EFD”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u529E”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u8BA4”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u5E94”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u8BE5”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u4E25”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u67E5”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u603B”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u89C2”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u4F17”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u8C1C”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u6837”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u5E26”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u60CA”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(66): warning C4566: 由通用字符名称“\u5462”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(70): warning C4566: 由通用字符名称“\u4E4C”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(70): warning C4566: 由通用字符名称“\u6E14”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(70): warning C4566: 由通用字符名称“\u4F20”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(70): warning C4566: 由通用字符名称“\u7EDF”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(70): warning C4566: 由通用字符名称“\u70ED”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(70): warning C4566: 由通用字符名称“\u7EC8”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(70): warning C4566: 由通用字符名称“\u8FD9”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(70): warning C4566: 由通用字符名称“\u827A”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(70): warning C4566: 由通用字符名称“\u6B65”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(70): warning C4566: 由通用字符名称“\u5462”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(70): warning C4566: 由通用字符名称“\u8BF7”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(70): warning C4566: 由通用字符名称“\u95F4”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(70): warning C4566: 由通用字符名称“\u65F6”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(70): warning C4566: 由通用字符名称“\u8C22”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(88): warning C4566: 由通用字符名称“\u6B22”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(88): warning C4566: 由通用字符名称“\u8D5B”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(88): warning C4566: 由通用字符名称“\u8BF7”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(88): warning C4566: 由通用字符名称“\u9009”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(88): warning C4566: 由通用字符名称“\u8282”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(88): warning C4566: 由通用字符名称“\u5434”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(88): warning C4566: 由通用字符名称“\u4E1A”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(88): warning C4566: 由通用字符名称“\u8D5E”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(88): warning C4566: 由通用字符名称“\u6BCF”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(88): warning C4566: 由通用字符名称“\u9488”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(88): warning C4566: 由通用字符名称“\u62E9”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(94): warning C4566: 由通用字符名称“\u8BF7”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(94): warning C4566: 由通用字符名称“\u9009”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(97): warning C4566: 由通用字符名称“\u7ECF”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(97): warning C4566: 由通用字符名称“\u5386”表示的字符不能在当前代码页(932)中表示出来
+c:\users\wujun\source\repos\滑滑蛋比赛\滑滑蛋比赛\源.cpp(82): warning C4715: “Imformation”: 不是所有的控件路径都返回值
+  滑滑蛋比赛.vcxproj -> C:\Users\wujun\source\repos\滑滑蛋比赛\Debug\滑滑蛋比赛.exe
