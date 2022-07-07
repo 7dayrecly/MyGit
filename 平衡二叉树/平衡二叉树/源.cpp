@@ -35,7 +35,7 @@ public:
 
 	
 private:
-	bool IsBanlanceTree(BiNode<T> *R); //判断是否为平衡二叉树
+	bool IsBanlanceTree(BiNode<T> *R); //判断是否为平衡二叉树，没用。
 	int GetHeight(BiNode<T> *R); //得到树的深度
 	void Banlance(BiNode<T> *R); //对非平衡的二叉树进行平衡
 	int difference(BiNode<T> *R) { return GetHeight(R->lch) - GetHeight(R->rch); }//计算该节点的平衡因子
@@ -217,33 +217,49 @@ void BST<T>::Banlance(BiNode<T> *R)
 {
 	if (R == NULL)
 		return;
-	if (difference(R) == 2)
+	if (difference(R) >= 0)
 	{
-		if (difference(R->lch) == -1)
+		if (difference(R) == 2)
 		{
-			LR(R);
-		}
-		else if (difference(R->lch) == 1)
-		{ 
-			LL(R);
+			if (difference(R->lch) == -1)
+			{
+				LR(R);
+			}
+			else if (difference(R->lch) == 1)
+			{
+				LL(R);
+			}
+			else
+			{
+				Banlance(R->lch);
+			}
 		}
 		else
 		{
 			Banlance(R->lch);
+			Banlance(R->rch);
 		}
 	}
-	if (difference(R) == -2)
+	if (difference(R) <= 0)
 	{
-		if (difference(R->rch) == -1)
+		if (difference(R) == -2)
 		{
-			RR(R);
-		}
-		else if (difference(R->rch) == 1)
-		{
-			RL(R);
+			if (difference(R->rch) == -1)
+			{
+				RR(R);
+			}
+			else if (difference(R->rch) == 1)
+			{
+				RL(R);
+			}
+			else
+			{
+				Banlance(R->rch);
+			}
 		}
 		else
 		{
+			Banlance(R->lch);
 			Banlance(R->rch);
 		}
 	}
@@ -294,7 +310,7 @@ void BST<T>::RL(BiNode<T> *R)
 
 int main()
 {
-	int arr[] = { 13,24,37,90,53 };
+	int arr[] = { 13,24,37,90,53,44,87,64 };
 	int n = sizeof(arr) / sizeof(arr[0]);
 	BST<int> bst(arr, n);
 	cout << "该平衡二叉树为：\n中序遍历：";

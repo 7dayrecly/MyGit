@@ -1,2 +1,6 @@
-﻿  源.cpp
+﻿  ContralFish.cpp
+  Fish.cpp
+  源.cpp
+  正在生成代码...
+c:\users\wujun\source\repos\eaxyx\eaxyx\fish.cpp(175): warning C4715: “Fish::JudgeWall”: 不是所有的控件路径都返回值
   eaxyx.vcxproj -> C:\Users\wujun\source\repos\eaxyx\Debug\eaxyx.exe

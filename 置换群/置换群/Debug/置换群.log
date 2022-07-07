@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\wujun\source\repos\置换群\置换群\源.cpp(39): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\wujun\source\repos\置换群\置换群\源.cpp(42): warning C4018: “<”: 有符号/无符号不匹配
+  置换群.vcxproj -> C:\Users\wujun\source\repos\置换群\Debug\置换群.exe

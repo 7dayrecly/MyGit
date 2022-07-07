@@ -1,0 +1,10 @@
+﻿  源.cpp
+c:\users\wujun\source\repos\电梯调度\电梯调度\源.cpp(48): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\wujun\source\repos\电梯调度\电梯调度\源.cpp(79): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\wujun\source\repos\电梯调度\电梯调度\源.cpp(93): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\wujun\source\repos\电梯调度\电梯调度\源.cpp(110): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\wujun\source\repos\电梯调度\电梯调度\源.cpp(129): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\wujun\source\repos\电梯调度\电梯调度\源.cpp(180): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\wujun\source\repos\电梯调度\电梯调度\源.cpp(187): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\wujun\source\repos\电梯调度\电梯调度\源.cpp(172): warning C4715: “State”: 不是所有的控件路径都返回值
+  电梯调度.vcxproj -> C:\Users\wujun\source\repos\电梯调度\Debug\电梯调度.exe
